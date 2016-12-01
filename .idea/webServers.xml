@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4593ee54-0f78-4369-b470-ad6cde4723e2" name="Jove" url="http://www2.macs.hw.ac.uk/~djf1/F28WP-Project">
+        <fileTransfer host="jove.macs.hw.ac.uk" port="22" rootFolder="/home/cs2/djf1" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
